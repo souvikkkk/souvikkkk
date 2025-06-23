@@ -17,7 +17,7 @@
 
 ## 💻 Tech Stack
 
-![Tech Stack Banner](https://github.com/Anshi016/Anshi016/blob/776aec0b23c7d76cc3e1464451e741f4f0352d5b/static/tech-stack-banner.png)
+![Tech Stack Banner](https://github.com/souvikkkk/souvikkkk/blob/043aec95ba4d877fe4773a5433a2d2befacfb8ee/static/tech-stack-banner.png)
 
 
 ### 🖥️ Languages
