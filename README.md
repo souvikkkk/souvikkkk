@@ -80,7 +80,7 @@
 
 ## 💼 Want to hire me? Here's my resume!
 - [📄 My Resume](https://github.com/souvikkkk/souvikkkk/blob/e95afa9810462468296c0ed9734cf56fae373e8a/static/SouvikMukherjee_CV.pdf)
-- 📧 Reach me at: [anship308@gmail.com](mailto:anship308@gmail.com)
+- 📧 Reach me at: [souvikmukherjee084@gmail.com](mailto:souvikmukherjee084@gmail.com)
 
 
 
