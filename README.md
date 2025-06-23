@@ -79,7 +79,7 @@
 
 
 ## 💼 Want to hire me? Here's my resume!
-- [📄 My Resume](https://github.com/Anshi016/Anshi016/raw/main/static/NEW_CV.pdf)
+- [📄 My Resume](https://github.com/souvikkkk/souvikkkk/blob/e95afa9810462468296c0ed9734cf56fae373e8a/static/SouvikMukherjee_CV.pdf)
 - 📧 Reach me at: [anship308@gmail.com](mailto:anship308@gmail.com)
 
 
